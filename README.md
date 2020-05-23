@@ -1,1 +1,1 @@
-# Excercises - work still in progress!
+# Excercises - done based on https://www.practicepython.org/
